@@ -1,1 +1,1 @@
-# CapgeminiBankingLogs
+# CapgeminiBankingLog
